@@ -1,1 +1,4 @@
-
+ype: CNAME
+host: www.wdduncan.com
+answer: wdduncan.github.io
+TTL: 300
