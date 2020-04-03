@@ -1,4 +1,4 @@
-ype: CNAME
+type: CNAME
 host: www.wdduncan.me
 answer: wdduncan.github.io
 TTL: 300
